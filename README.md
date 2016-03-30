@@ -18,12 +18,12 @@ C:\date-calc>mocha
 I also created a task for test cased in my gulp file
 C:\date-calc>gulp mocha
 ## How to run
-To run the app first unzip the date-calc.zip file in C:\ drive, it creates a folder called date-calc on the root
+To run the app first clone the repository in C:\ drive, it creates a folder called date-calc on the root
 Then using your node.js cmd run the following
 
 	C:\>
 	C:\>cd date-calc
-	C:\ date-calc>npm install
+	C:\date-calc>npm install
           Make sure all components are installed correctly as I haven’t included the node-modules
 	C:\date-calc>npm link
 	C:\date-calc>datecalc 01/01/2015 04/01/2080
